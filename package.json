@@ -1,0 +1,25 @@
+{
+  "name": "site-exat",
+  "version": "1.0.0",
+  "description": "Primeiro site que está sendo desenvolvido para o portfólio.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunomcardoso151986/Site-EXAT.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brunomcardoso151986/Site-EXAT/issues"
+  },
+  "homepage": "https://github.com/brunomcardoso151986/Site-EXAT#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
+  }
+}
